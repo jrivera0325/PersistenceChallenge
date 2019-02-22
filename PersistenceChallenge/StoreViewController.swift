@@ -31,7 +31,7 @@ class StoreViewController: UIViewController {
         let defaults = UserDefaults.standard
         defaults.set(Int(integerTextField.text!)!, forKey: "integerText")
                 
-      //test
+      //tests
         
         /***************************************************
          * End Your Code Here For MVP
